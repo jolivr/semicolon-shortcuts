@@ -1,3 +1,15 @@
+## 2.1.1
+Bugfixes:
+* Removed debug statement
+
+## 2.1.0
+Bugfixes:
+* Reading from wrong config file is fixed
+
+## 2.0.0
+Features:
+* Option to move cursor to end of line (when new line option is not also set)
+
 ## 1.0.1
 Features:
 * Start a new line (optional with default commands, always with `trailing-semicolon:semicolon-newline` and `trailing-semicolon:comma-newline`)
