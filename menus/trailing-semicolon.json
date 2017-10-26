@@ -9,6 +9,10 @@
                   "command": "trailing-semicolon:semicolon"
                },
                {
+                  "label": "Semicolon + move to end of line",
+                  "command": "trailing-semicolon:semicolon-eol"
+               },
+               {
                   "label": "Semicolon + new line",
                   "command": "trailing-semicolon:semicolon-newline"
                },
